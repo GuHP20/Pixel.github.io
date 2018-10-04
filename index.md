@@ -9,4 +9,4 @@
 I also take an interest in aircraft (mainly planes) </p>
  
 <img src="D2D4E538-5C5B-4F0D-B629-9CEC46B66C37.jpeg" alt="Rocket" class="inline"/>
-<h6> <a href="https://github.com/Owenm06/OwenM06.github.io/blob/master/README.md">Copyright, Readme</a> </h6>
+<h6> <a href="https://github.com/Owenm06/OwenM06.github.io/blob/master/README.md">Copyright, Readme</a> ©Owen Murtha, 2018, All Rights Reserved. </h6>

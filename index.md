@@ -1,5 +1,4 @@
-  <!DOCTYPE html>  
-<html>
+  
 
 <h1> Welcome To My Website! <h1>
 

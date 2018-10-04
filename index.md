@@ -1,7 +1,7 @@
  
 
-<p> <a href="https://owenm06.github.io/OwenPhotos06.github.io">Photos</a>
- <a href="https://owenm06.github.io/Coding06.github.io/">Coding</a> 
+<p> PAGE DIRECTORY <a href="https://owenm06.github.io/OwenPhotos06.github.io">Photos</a>
+_____<a href="https://owenm06.github.io/Coding06.github.io/">Coding</a> 
 </p>
 <h1> Welcome To My Website! </h1>
 <h2> A BIT ABOUT ME </h2>

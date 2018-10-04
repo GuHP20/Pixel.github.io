@@ -5,4 +5,4 @@
 <h2> ABOUT ME <h2>
   <p>  My interests include rocketry, space, science, and art. I have an interest in space because I feel that it is awesome that humans are exploring the most inhospitable, dangerous, yet beautiful places. I also take an interest in photography, although I am still learning! I enjoy science because it makes the world we live in so much easier to navigate, work in, and live in. I love to travel and explore. In addition to this, I enjoy camping and nature. 
 I also take an interest in aircraft (mainly planes) </p>
-<a href="https://github.com/Owenm06/OwenM06.github.io ">SPACE</a>
+<a href="SpacePage.md">SPACE</a>

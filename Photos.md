@@ -1,1 +1,0 @@
-<h1> My Photos </h1>

@@ -1,6 +1,6 @@
  
 
- <a href="https://owenm06.github.io/OwenPhotos06.github.io">Photos</a>: A page where I post all of my photos I took!
+ <a href="https://owensphotography.tumblr.com/">Photos</a>: A page where I post all of my photos I took!
  
  <a href="https://owenm06.github.io/Coding06.github.io/">Coding</a>: My coding experience!
 <h1> Welcome To My Website! </h1>
